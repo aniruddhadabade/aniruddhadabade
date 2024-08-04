@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/13jRNR4Od4bhfurG3YV-KAroJpqrzOAt4/view?usp=drive_link)](https://rishavchanda.io)
+[![MasterHead](https://github.com/aniruddhadabade/aniruddhadabade/blob/main/github-header-image.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Aniruddha Dabade</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
